@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersave",
+        "uuid": 28273000,
+        "checksum": "lujdm"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
